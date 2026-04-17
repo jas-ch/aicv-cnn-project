@@ -1,1 +1,0 @@
-# aicv-cnn-project
