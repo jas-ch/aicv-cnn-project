@@ -1,0 +1,4 @@
+**/__pycache__/**
+asl_short/**
+saves/**
+!saves/val_loss.jpg
